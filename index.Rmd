@@ -1,0 +1,164 @@
+---
+title: "MBON Plankton Project"
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Organizer: [Marine Biodiversity Observation (MBON)](https://marinebon.org/)
+
+<body>
+
+<h4>
+
+Much life in the sea depends on plankton diversity and production. As
+the ocean changes, the many ecosystem functions of plankton - their
+biodiversity, distribution, nutrient and carbon flows, timing of life
+stages and blooms - change in ways that also alter ecosystem services
+that other organisms, including humans, depend on. There is a need to
+better understand and predict how these ecosystem functions of the
+plankton community change on different time scales. Justifying
+comprehensive regional and global studies of the role of plankton
+biodiversity and ecosystem function will require understanding the
+importance of plankton in an ecosystem services framework. This series
+of virtual workshops brings scientists together to provide an overview
+on the state-of-the-art of field, lab and modelling approaches used to
+study plankton biodiversity and discuss data needs for improving our
+understanding on the value of plankton, its functions and ecosystem
+services. A goal is to align multiple research tools and approaches,
+data, methods, protocols and knowledge to improve ecological
+forecasting. This alignment is important to meet the goals of the UN
+Decade of Ocean Science for Sustainable Development (the Ocean Decade)
+through programs like Marine Life 2030, Digital Twins of the Ocean -
+DITTO, and Ocean Practices for the Decade.
+
+The report for the first MODIV-MBON workshop is available
+[here](MBON_MODIV_workshop_report.pdf)
+
+</h4>
+
+</body>
+
+<img src="images/plankton_art.PNG" width="1000px"/>
+
+## Key objectives
+
+<body>
+
+<h4>
+
+The workshops will emphasize on:
+
+1.  Data availability, accessibility and use, specifically: (i) data
+    types necessary for exploring the effect of plankton biodiversity on
+    ecosystem functions, (ii) improving our ability to link field
+    observations and models.
+
+2.  Value of plankton from an ecological, biogeochemical, cultural, and
+    economic perspective.
+
+</h4>
+
+</body>
+
+<br>
+
+## Expected outcomes
+
+<body>
+
+<h4>
+
+The goal of the workshops is to develop two international working groups
+to:
+
+1.  Develop community-agreed unit conversion tables (e.g., abundance to
+    carbon) published as best practices documents and/or available as
+    online tools, important for forecasting and global data
+    metaanalysis.
+
+2.  Write a synthesis paper on the ecological, biogeochemical, economic
+    and recreational value of plankton with colleagues from different
+    fields and regions for a global perspective.
+
+<br>
+
+Participants will propose research actions, each linked to specific
+efforts for a multidisciplinary approach to the proposed topics (e.g.,
+biological oceanography, data science, education, citizen science,
+policy, socioeconomics, arts).
+
+</h4>
+
+</body>
+
+<br>
+
+## Workshop participation:
+
+<body>
+
+<h4>
+
+The first workshop, supported by MBON, MODIV and OO RCN took place on
+November 9-10, 2020, with participants from Europe and the USA. The
+upcoming workshops in October 2021 seek to expand the geographic
+representation of participants and we are thus encouraging researchers
+from Africa, Asia, Canada, Latin America, Europe, Middle East, India and
+Oceania to join us in this collective effort.
+
+<br>
+
+Each workshop will gather a diverse group of around 25 participants,
+each with recognized expertise on their field of interest. Three virtual
+workshops will be held during the following time zones:
+
+-   UTC-9 to UTC- 5: Latin America and Canada
+
+-   UTC to UTC + 6: Africa, Europe, Middle East, India
+
+-   UTC + 7 to UTC + 12: Asia, Oceania
+
+</body>
+
+<br>
+
+
+## Organizing committee:
+
+<body>
+
+<h4>
+
+-   Esteban Acevedo-Trejos
+
+-   Clarissa Anderson
+
+-   Jason Everett
+
+-   Maria Grigoratou
+
+-   Enrique Montes
+
+-   Frank Muller- Karger
+
+-   Renato Quinones
+
+-   Anthony Richardson
+
+-   Meike Vogt
+
+-   Soultana Zervoudaki
+
+<h4>
+
+</body>
+
+<br>
+
+## Sponsored by:
+
+<img src="images/mbon.JPG" width="1000px"/>
