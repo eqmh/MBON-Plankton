@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = F, message = F, warning = F, fig.width=9.5, fig.hei
 
 ## [Marine Biodiversity Observation (MBON)](https://marinebon.org/)
 
+Introduction paragraph for the workshops (when, why, contact info). There we can use the screenshots for the 2021 workshops. Something along the lines of:
+
 <body>
 
 <h4>
@@ -34,9 +36,6 @@ forecasting. This alignment is important to meet the goals of the UN
 Decade of Ocean Science for Sustainable Development (the Ocean Decade)
 through programs like Marine Life 2030, Digital Twins of the Ocean -
 DITTO, and Ocean Practices for the Decade.
-
-The report for the first MODIV-MBON workshop is available
-[here](MBON_MODIV_workshop_report.pdf)
 
 </h4>
 
@@ -91,67 +90,6 @@ policy, socioeconomics, arts).
 
 <br>
 
-## Workshop participation:
-
-<body>
-
-<h4>
-
-The first workshop, supported by MBON, MODIV and OO RCN took place on
-November 9-10, 2020, with participants from Europe and the USA. The
-upcoming workshops in October 2021 seek to expand the geographic
-representation of participants and we are thus encouraging researchers
-from Africa, Asia, Canada, Latin America, Europe, Middle East, India and
-Oceania to join us in this collective effort.
-
-<br>
-
-Each workshop will gather a diverse group of around 25 participants,
-each with recognized expertise on their field of interest. Three virtual
-workshops will be held during the following time zones:
-
--   UTC-9 to UTC- 5: Latin America and Canada
-
--   UTC to UTC + 6: Africa, Europe, Middle East, India
-
--   UTC + 7 to UTC + 12: Asia, Oceania
-
-</body>
-
-<br>
-
-
-## Organizing committee:
-
-<body>
-
-<h4>
-
--   Esteban Acevedo-Trejos
-
--   Clarissa Anderson
-
--   Jason Everett
-
--   Maria Grigoratou
-
--   Enrique Montes
-
--   Frank Muller- Karger
-
--   Renato Quinones
-
--   Anthony Richardson
-
--   Meike Vogt
-
--   Soultana Zervoudaki
-
-<h4>
-
-</body>
-
-<br>
 
 ## Sponsored by:
 

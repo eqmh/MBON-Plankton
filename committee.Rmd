@@ -1,0 +1,58 @@
+---
+title: "Organizing Committee and Workshop Participants"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, warning = F)
+```
+
+## Organizing committee:
+
+<body>
+
+<h4>
+
+-   Esteban Acevedo-Trejos
+
+-   Clarissa Anderson
+
+-   Jason Everett
+
+-   Maria Grigoratou
+
+-   Enrique Montes
+
+-   Frank Muller- Karger
+
+-   Renato Quinones
+
+-   Anthony Richardson
+
+-   Meike Vogt
+
+-   Soultana Zervoudaki
+
+<h4>
+
+</body>
+
+<br>
+
+## Workshop Participants:
+
+<body>
+
+<h4>
+
+The first workshop, supported by MBON, MODIV and OO RCN took place on
+November 9-10, 2020, with participants from Europe and the USA. The
+upcoming workshops in October 2021 seek to expand the geographic
+representation of participants and we are thus encouraging researchers
+from Africa, Asia, Canada, Latin America, Europe, Middle East, India and
+Oceania to join us in this collective effort.
+
+<br>
+
+</body>
+
+<br>

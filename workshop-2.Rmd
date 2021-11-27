@@ -1,0 +1,12 @@
+---
+title: "Workshop 2"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, warning = F)
+```
+
+## Workshop 2:
+
+From November 2020 for now, we can add the link to L&O when published. The report for the first MODIV-MBON workshop is available
+[here](MBON_MODIV_workshop_report.pdf)
