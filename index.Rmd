@@ -5,10 +5,10 @@ editor_options:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F, message = F, warning = F, fig.width=9.5, fig.height=12)
 ```
 
-## Organizer: [Marine Biodiversity Observation (MBON)](https://marinebon.org/)
+## [Marine Biodiversity Observation (MBON)](https://marinebon.org/)
 
 <body>
 

@@ -1,0 +1,20 @@
+name: "mbon-plankton"
+# exclude: ["survey imagery", "data", "docs/z_*"]
+navbar:
+  title: "MBON Plankton"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    self_contained: false
+    lib_dir: docs/site_libs
+    highlight: textmate
+    include:
+      after_body: _includes/footer.html
+    css: styles.css
+include: [".nojekyll"]
