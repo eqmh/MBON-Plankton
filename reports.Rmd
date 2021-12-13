@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = F, message = F, warning = F)
 An overview of all workshops has been submitted as Meeting Highlights in the L&O Bulletin.
 
 The report for the first MODIV-MBON workshop is available
-[here](docs/MBON_MODIV_workshop_report.pdf)
+[here](MBON_MODIV_workshop_report.pdf)
 
 <img src="images/workshop_report.PNG" width="1000px"/>
 
