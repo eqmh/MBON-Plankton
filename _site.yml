@@ -12,6 +12,12 @@ navbar:
     - text: "Workshop Participants"
       icon: ion-ios-person
       href: participants.html
+    - text: "Keynote Speakers"
+      icon: ion-ios-person
+      href: keynotes.html
+    - text: "Program"
+      icon: ion-hammer
+      href: programs.html
     - text: "Workshop Reports"
       icon: ion-hammer
       href: reports.html
